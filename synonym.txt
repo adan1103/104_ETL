@@ -1,0 +1,16 @@
+R程式:R
+R語言:R
+Artificial intelligence:AI
+人工智慧:AI
+機器學習:ML
+Machine learning:ML
+深度學習:DL
+Deep learning:DL
+雲端服務:cloud
+雲端運算:cloud
+雲服務:cloud
+聊天機器人:Chatbot
+爬蟲:ETL
+資料分析:data mining
+數據分析:data mining
+資料探勘:data mining
